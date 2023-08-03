@@ -1,0 +1,7 @@
+D:\F\Dap\myapp\app\myapp.exe
+D:\F\Dap\myapp\app\appsettings.Development.json
+D:\F\Dap\myapp\app\appsettings.json
+D:\F\Dap\myapp\app\myapp.dll
+D:\F\Dap\myapp\app\myapp.deps.json
+D:\F\Dap\myapp\app\myapp.runtimeconfig.json
+D:\F\Dap\myapp\app\myapp.pdb
