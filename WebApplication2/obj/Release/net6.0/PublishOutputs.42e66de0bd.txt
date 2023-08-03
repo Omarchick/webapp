@@ -1,0 +1,10 @@
+D:\DeployING\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.exe
+D:\DeployING\WebApplication2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\DeployING\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.dll
+D:\DeployING\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.deps.json
+D:\DeployING\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.runtimeconfig.json
+D:\DeployING\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.pdb
+D:\DeployING\WebApplication2\obj\Release\net6.0\PubTmp\Out\HtmlAgilityPack.dll
+D:\DeployING\WebApplication2\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\DeployING\WebApplication2\obj\Release\net6.0\PubTmp\Out\SixLabors.ImageSharp.dll
+D:\DeployING\WebApplication2\obj\Release\net6.0\PubTmp\Out\Telegram.Bot.dll
